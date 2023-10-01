@@ -4,7 +4,9 @@ This project focuses on exploring and analyzing user behavior on the Amazon Prim
 ![Prime video logo](https://github.com/ishita-goyal-019/Prime_Video_Analysis/assets/145800141/3e0c7b6e-749e-4354-879a-5156dcd4e9b8)
 
 <br>
+
 ## 🎯 Problem Statement:
+
 - The objective of this project is to analyze user behavior on the Prime Video platform using Exploratory Data Analysis. 
 - The challenge is to uncover insights into user preferences, viewing patterns, and trends by analyzing a real-world dataset sourced from Kaggle. 
 - This analysis will provide valuable information for content creators, marketers, and platform optimization.
@@ -30,18 +32,6 @@ This project focuses on exploring and analyzing user behavior on the Amazon Prim
 - [🚀 User Manual](#usage)
 
 <br>
-
-## 🚀 Project Details
-
-### 📊 Data Extraction
-
-- Sourced a comprehensive Netflix user behavior dataset from Kaggle.
-- Dataset includes information about user interactions, content preferences, and viewing patterns.
-
-### 🔍 Data Preprocessing
-
-- Performed data cleaning to ensure data accuracy and consistency.
-- Handled missing values, duplicates, and organized the data for analysis.
 
 ## 🚀 Project Details
 
