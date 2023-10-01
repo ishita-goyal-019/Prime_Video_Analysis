@@ -38,7 +38,7 @@ This project focuses on exploring and analyzing user behavior on the Amazon Prim
 - [💡 Insights Derived](#insights-derived)
 - [🔮 Future Scope](#future-scope)
 - [📋 License](#license)
-- 
+ 
 <br>
 
 ## 🚀 Project Details
@@ -58,6 +58,7 @@ This project focuses on exploring and analyzing user behavior on the Amazon Prim
 - Utilized Power Bi to create insightful visualizations.
 - Generated bar plots, area chart, fieldmap, and more to illustrate trends and patterns.
 - Visualizations provide a clear representation of user engagement, content popularity, and viewing habits.
+
 
 ![WhatsApp Image 2023-10-02 at 12 06 56 AM](https://github.com/ishita-goyal-019/Prime_Video_Analysis/assets/145800141/6a50c759-d97f-45ed-bd96-ad64571e2224)
 
