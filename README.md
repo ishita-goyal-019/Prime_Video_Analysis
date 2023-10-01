@@ -8,7 +8,12 @@ This project focuses on exploring and analyzing user behavior on the Amazon Prim
 ## 🎯 Problem Statement:
 
 - The objective of this project is to analyze user behavior on the Prime Video platform using Exploratory Data Analysis. 
-- The challenge is to uncover insights into user preferences, viewing patterns, and trends by analyzing a real-world dataset sourced from Kaggle. 
+- The challenge is to uncover insights into user preferences, viewing patterns, and trends by analyzing a real-world dataset sourced from Kaggle.
+  - Top Ratings by TV shows.
+  - Total shows by country.
+  - Genere by total shows.
+  - Create slicers to assess case severity in different Ratings and Listed_in.
+  - Different shows and their release date.
 - This analysis will provide valuable information for content creators, marketers, and platform optimization.
 
 <br>
