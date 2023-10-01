@@ -21,7 +21,6 @@ This project focuses on exploring and analyzing user behavior on the Amazon Prim
 ## 📋 Overview
 * Data extraction from Kaggle
 * Data preprocessing to ensure accuracy and consistency
-* Exploratory Data Analysis using Python libraries like NumPy, Pandas, Seaborn, and Matplotlib
 * Uncovering insights into user engagement, content preferences, and more
 * User segmentation using clustering techniques
 * Providing implications for content creators and marketers
@@ -35,7 +34,11 @@ This project focuses on exploring and analyzing user behavior on the Amazon Prim
 - [🔍 Data Preprocessing](#data-preprocessing)
 - [📊 Power BI Dashboard](#power-bi-dashboard)
 - [🚀 User Manual](#usage)
-
+- [🌟 Tech Stack](#techstack)
+- [💡 Insights Derived](#insights-derived)
+- [🔮 Future Scope](#future-scope)
+- [📋 License](#license)
+- 
 <br>
 
 ## 🚀 Project Details
