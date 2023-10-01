@@ -68,6 +68,7 @@ https://drive.google.com/file/d/1v-mJeHlH8Cx34O-h_QWASs71dd9_tNci/view?usp=shari
 
 ### 🛠️ User Manual
 
+
 - Clone this repository to your local machine.
 - Open the Power Bi ('amazon_prime_titles.csv') in a compatible environment.
 - Follow along with the documented steps to understand the Power Query process.
